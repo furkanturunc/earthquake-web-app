@@ -1,0 +1,10 @@
+# Ignore node modules
+client/node_modules
+server/node_modules
+
+# Logs
+*.log
+npm-debug.log*
+
+# .env for later use
+.env
